@@ -87,7 +87,6 @@ local function createwarning(title, text, delay)
 end
 
 createwarning("Nopium", "Nopium Private Loaded", 5)
-createwarning("Whats New | 1.2.2", "[+] MultiAura | [+] ACDisabler", 5)
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
