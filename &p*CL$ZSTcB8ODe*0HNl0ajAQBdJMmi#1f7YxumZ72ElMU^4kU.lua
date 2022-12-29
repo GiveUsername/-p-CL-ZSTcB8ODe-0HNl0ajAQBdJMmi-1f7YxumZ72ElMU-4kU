@@ -94,7 +94,7 @@ local yes = Players.LocalPlayer.Name
 local ChatTag = {}
 ChatTag[yes] =
     {
-        TagText = "NOPIUM PRIVATE",
+        TagText = "TRUE NOPIUM",
         TagColor = Color3.new(128,0,128),
     }
 
